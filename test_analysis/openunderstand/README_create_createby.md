@@ -27,6 +27,7 @@ these are my output in Windows and Linux:
 
 
 - and these are kind and content in windows :
+
 ![04](https://github.com/zahrahabibolah/OpenUnderstand/blob/dev/test_analysis/02.png?raw=true)
 ![05](https://github.com/zahrahabibolah/OpenUnderstand/blob/dev/test_analysis/03.png?raw=true)
 ## read the output
