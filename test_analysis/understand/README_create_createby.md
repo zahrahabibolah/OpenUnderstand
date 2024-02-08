@@ -20,11 +20,14 @@ these are my output in Windows and Linux:
 - before changes in linux:
 ![02](https://github.com/zahrahabibolah/OpenUnderstand/blob/dev/test_analysis/photo_5917882626973221723_x.jpg?raw=true)
 
+- the numbers show the line of the code that create ref appears and end of the output tells that Which line is seen only in openunderstand and which only in understand
+
 - after (linux):
 ![03](https://github.com/zahrahabibolah/OpenUnderstand/blob/dev/test_analysis/photo_5917882626973221722_x.jpg?raw=true)
 
 
 - and these are kind and content in windows :
+
 ![04](https://github.com/zahrahabibolah/OpenUnderstand/blob/dev/test_analysis/02.png?raw=true)
 ![05](https://github.com/zahrahabibolah/OpenUnderstand/blob/dev/test_analysis/03.png?raw=true)
 ## read the output
